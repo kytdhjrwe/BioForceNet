@@ -1,0 +1,1 @@
+The training results of the proposed model are stored in this folder.
