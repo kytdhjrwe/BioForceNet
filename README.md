@@ -8,5 +8,5 @@ In both military training and general fitness activities, exercise-related injur
 ![Model Structure](https://github.com/user-attachments/assets/63704880-92f4-4561-a491-8b3855059a08)
 
 # Dataset
-Get link to 'Exercise Based Lower Limb Dataset from Lab and Wearables'：https://pan.baidu.com/s/1hAFfZCg-e546lvPw_kXfag,Extracted code:bw27.
+Get link to 'Exercise Based Lower Limb Dataset from Lab and Wearables'：https://pan.baidu.com/s/1hAFfZCg-e546lvPw_kXfag, Extracted code:bw27.
 The fully processed data that can be directly used for training will be made public after the paper is accepted.
